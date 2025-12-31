@@ -1,0 +1,9 @@
+{
+  "id": "XCache",
+  "name": "Cache Cleaner Universal",
+  "version": "v1.0",
+  "versionCode": 1,
+  "author": "@BoltXNext",
+  "description": "Cache Cleaner Universal for all types of Android root",
+  "updateJson": "https://raw.githubusercontent.com/Kingfinik98/Module-rooted/Xcache/update.json"
+}
